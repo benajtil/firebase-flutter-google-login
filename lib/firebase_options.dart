@@ -54,12 +54,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBcdIH3WeMr5NO8H0NpW6ECQy2BghJbG98',
-    appId: '1:132381301913:ios:7cf4a8a242e6a1ca1eec08',
-    messagingSenderId: '132381301913',
-    projectId: 'flutterfire-samples',
-    storageBucket: 'flutterfire-samples.appspot.com',
-    androidClientId: '132381301913-5o1p8r5cr7hbmet7bjtltnk3hiv2eife.apps.googleusercontent.com',
-    iosClientId: '132381301913-6ho0d2nv7b9q73ibmtsjq3es09leqbt9.apps.googleusercontent.com',
-    iosBundleId: 'com.souvikbiswas.flutterfireExamples',
+    appId: '1:561056426046:ios:a03c35b51cd87cb088896f',
+    messagingSenderId: '561056426046',
+    projectId: 'login-page-34c07',
+    storageBucket: 'login-page-34c07.appspot.com',
+    androidClientId: '561056426046-sb39q5tsn7tbo6plb3lrf7dj1ue077ad.apps.googleusercontent.com',
+    iosClientId: '561056426046-pjk8httek0l7barq4nqb18l7r3s2pc24.apps.googleusercontent.com',
+    iosBundleId: 'com.benflorence.flutter.sample',
   );
 }
